@@ -1,4 +1,4 @@
-# Huffman-Coding
+# EX 9: Huffman-Coding
 # Developed By: ESHWAR T
 # Reg.No: 212223230054
 ## Aim
